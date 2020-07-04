@@ -1,2 +1,4 @@
-class Do
-  def initialize
+class Dog
+  def initialize (name)
+    
+      
